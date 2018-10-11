@@ -15,3 +15,5 @@ Please RSVP a seat for the lecture:
 * Oct 24, https://www.sdmesa.edu/calendar/index.php?eID=3259
 
 Keep posted for more info!
+
+![San Diego Mesa College Logo](https://www.sdccd.edu/docs/district/logos/Campus%20logos/mesaWithDO_color_horiz.png)

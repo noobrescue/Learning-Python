@@ -1,6 +1,6 @@
 # Python-Workshops
 
-![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png =500x)
 
 These are files to accompany class lectures at San Diego Mesa College!
 
@@ -16,4 +16,4 @@ Please RSVP a seat for the lecture:
 
 Keep posted for more info!
 
-![San Diego Mesa College Logo](https://www.sdccd.edu/docs/district/logos/Campus%20logos/mesaWithDO_color_horiz.png)
+![San Diego Mesa College Logo](https://www.sdccd.edu/docs/district/logos/Campus%20logos/mesaWithDO_color_horiz.png =500x)

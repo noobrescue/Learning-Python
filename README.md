@@ -1,4 +1,7 @@
 # Python-Workshops
+
+![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+
 These are files to accompany class lectures at San Diego Mesa College!
 
 Please RSVP a seat for the lecture:
